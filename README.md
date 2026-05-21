@@ -8,7 +8,7 @@ Official implementation of the ICML 2026 paper
 
 ## Overview
 
-This repository implements **Wass-MD**, an adaptive controller for nonlinear
+This repository implements an adaptive controller for nonlinear
 systems under unknown disturbances. The method lifts parameter adaptation from
 finite-dimensional Euclidean space into Wasserstein space, and uses
 meta-learning to jointly optimize the nonlinear feature representation, the
